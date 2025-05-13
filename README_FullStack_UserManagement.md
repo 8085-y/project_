@@ -1,25 +1,21 @@
 
 # 🧑‍💻 Full Stack User Management System
 
-A full-stack user management system built using **Java (Spring Boot)** for the backend and **React.js** for the frontend. This project includes complete user registration, login, and CRUD operations, with responsive UI and cloud deployment. Built to demonstrate clean architecture, CI/CD readiness, and full application lifecycle management.
+A full-stack user management system built using Java (Spring Boot) for the backend and React.js for the frontend. This project includes complete user registration, login, and CRUD operations, with responsive UI and cloud deployment. Built to demonstrate clean architecture, CI/CD readiness, and full application lifecycle management.
 
----
+
 
 ## 🌟 Why I'm Proud of This Project
 
 - Designed and developed independently from scratch
-- Built using industry-relevant tools like **Spring Boot, React, MySQL, and AWS**
-- Deployed on **AWS EC2** with CI/CD using GitHub Actions
+- Built using industry-relevant tools like Spring Boot, React, MySQL, and AWS
+- Deployed on AWS EC2 with CI/CD using GitHub Actions
 - Practiced version control and collaboration using Git
 - Real-world simulation of full-stack product ownership
 
----
+
 
 ## 📸 Screenshots
-
-> 📷 Add screenshots to the `/screenshots` folder and update links here.
-
----
 
 ## ⚙️ Technologies Used
 
@@ -43,10 +39,6 @@ A full-stack user management system built using **Java (Spring Boot)** for the b
 - Postman (for API testing)
 - Docker (optional containerization)
 
----
-
-## 🚀 Setup Instructions
-
 ### Backend
 ```bash
 cd backend
@@ -60,9 +52,7 @@ npm install
 npm start
 ```
 
-Ensure your backend is running on port 8080 and frontend on port 3000 (or update proxy config).
 
----
 
 ## 🔐 Features
 
@@ -73,7 +63,6 @@ Ensure your backend is running on port 8080 and frontend on port 3000 (or update
 - Integrated REST APIs
 - Form validation and error handling
 
----
 
 ## ☁️ Deployment Details
 
@@ -103,19 +92,5 @@ user-management-app/
 └── README.md
 ```
 
----
 
-## 👤 Author
 
-**Venkata Subba Reddy Pallerla**  
-📧 subbareddy12102000@gmail.com  
-📞 (214) 843-5681  
-[LinkedIn](https://www.linkedin.com/in/subba-reddy-pallerla-4153aa360/)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
